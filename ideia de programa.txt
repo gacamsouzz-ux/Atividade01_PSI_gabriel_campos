@@ -1,0 +1,85 @@
+
+PORBLEMA: DIVULGAÇÃO PARA PEQUENOS COMÉRCIOS
+
+Pequenos comércios locais uma divulgação mais ampla de seu trabalho pode ser um obstáculo visto que pessoas que não frequentem o ambiente comercial com muita frequência podem não ficar cientes dos serviços dos comerciantes. para isso, uma aplicação que forneça informações sobre tal produto podem ser de extrema utilidade, trazendo ferramentas como:
+- calendário de compromissos
+- requisição de atendimento, por parte do cliente (o compromisso aparecerá no calendário do vendedor após ele ser confirmado pelo mesmo)
+- página de mostruário, com descrições e fotos do serviço fornecido
+- área de mensagens para dúvidas a serem tiradas com o próprio vendedor
+
+
+
+
+
+
+	Administração de agendas
+Administração de agendas é o processo de organizar, planejar e controlar compromissos, eventos, tarefas e horários de uma pessoa, equipe ou organização. Pode ser feito manualmente, mas geralmente é automatizado por meio de aplicativos ou sistemas.
+
+ Principais objetivos:
+Evitar conflitos de horários
+
+
+Ex: não marcar duas reuniões ao mesmo tempo.
+
+
+Melhorar o uso do tempo
+
+
+Garantir que os horários sejam usados de forma produtiva.
+
+
+Aumentar a organização
+
+
+Ter clareza sobre o que precisa ser feito, por quem e quando.
+
+
+Facilitar a comunicação
+
+
+Quando várias pessoas compartilham uma agenda, todos ficam alinhados.
+
+
+Registrar e lembrar compromissos
+
+
+Alertas e notificações evitam esquecimentos.
+
+
+
+🔧 Recursos comuns em sistemas de agenda:
+Recurso
+O que faz?
+Criação de eventos
+Adiciona compromissos com data, hora e descrição.
+Compartilhamento de agenda
+Permite que outros usuários visualizem ou editem.
+Alertas e notificações
+Envia lembretes por e-mail, app ou mensagem.
+Agendamento inteligente
+Sugere horários livres com base na agenda atual.
+Repetição de eventos
+Permite marcar eventos recorrentes (ex: toda segunda).
+Integração com outras ferramentas
+Ex: Google Calendar, Outlook, WhatsApp, etc.
+
+
+ Exemplos de onde se usa administração de agendas:
+Bibliotecas: agendamento de salas de estudo, eventos literários, devoluções.
+
+
+Consultórios médicos: marcação de consultas e exames.
+
+
+Empresas: organização de reuniões, entrevistas e treinamentos.
+
+
+Escolas/universidades: agendamento de aulas, provas, apresentações.
+
+
+Autônomos: controle de atendimentos, prazos de entrega e reuniões.
+
+
+
+
+
